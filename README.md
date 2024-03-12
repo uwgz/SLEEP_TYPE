@@ -22,3 +22,14 @@ questions_and_options = [
      {1: scoreValue1, 2: scoreValue2, ...}),
     # Additional questions follow the same format
 ]
+
+## Disclaimer
+Note: This questionnaire is not a diagnostic tool. The results should only be interpreted as a general idea of how you compare against the rest of the audience. It is important to consult with a healthcare professional for any concerns regarding your sleep patterns or health.
+
+## Copyright and Source
+Copyright © 1989 by the American Psychological Association. Reproduced with permission.
+
+#Source: Smith, C. S., Reilly, C., & Midkiff, K. (1989). Evaluation of three circadian rhythm questionnaires with suggestions for an improved measure of morningness. Journal of Applied Psychology, 74(5), 728–738. https://doi.org/10.1037/0021-9010.74.5.728
+
+## Contributing
+We welcome contributions to improve the questionnaire or the analysis tools. Please feel free to fork the repository, make your changes, and submit a pull request.
